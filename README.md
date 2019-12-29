@@ -25,7 +25,11 @@ you may add these in your path variable via your **~/.bash_profile** file (you s
 - Check if you have a gateway that could get you somewhere nice.
 
 `$ ./trace-gw 8.8.4.4`
+
 [info] Trying ARP entries to reach 8.8.4.4...
+
 [success] Could reach 8.8.4.4 via xx:xx:xx:xx:xx:xx (10.0.0.11) at eth0
+
 [success] Could reach 8.8.4.4 via xx:xx:xx:xx:xx:xx (10.0.0.20) at eth0
+
 [info] Done!
